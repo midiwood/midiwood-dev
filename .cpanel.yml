@@ -1,5 +1,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/example/public_html/
-    - /bin/cp -R images $DEPLOYPATH/images
-    - /bin/cp -R wp-content $DEPLOYPATH/wp-content
+    - /bin/cp index.html $DEPLOYPATH
+
+

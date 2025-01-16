@@ -1,0 +1,59 @@
+#ddu-dropbox {
+    border: 2px dashed #ccc;
+    padding: 50px;
+    text-align: center;
+    transition: border-color 0.3s; /* Standard */
+    -webkit-transition: border-color 0.3s; /* Safari */
+    position: relative;
+    border-radius: 10px;
+}
+
+#ddu-dropbox.is-dragover {
+    border-color: #000;
+    background-color: #f0f0f0;
+}
+
+#ddu-dropbox.is-dropover {
+    border-color: blue;
+    background-color: #f0f0f0;
+}
+
+#ddu-upload-status {
+    margin-top: 20px;
+    position: relative;
+}
+
+#ddu-upload-status .success {
+    color: green;
+}
+
+#ddu-upload-status .error {
+    color: red;
+}
+
+#ddu-upload-status .loading {
+    color: blue;
+}
+
+#ddu-upload-status .loading::before {
+    content: '⏳ Uploading... ';
+    animation: spin 1s linear infinite;
+}
+
+/* Progress bar styles */
+.progress-bar {
+    width: 0%;
+    height: 5px;
+    background-color: #4caf50; /* Green */
+    margin-top: 10px;
+    transition: width 0.3s ease;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

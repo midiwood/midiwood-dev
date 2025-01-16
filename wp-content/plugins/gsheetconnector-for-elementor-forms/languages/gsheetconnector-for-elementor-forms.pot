@@ -1,0 +1,761 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Elementor Forms GSheetConnector\n"
+"POT-Creation-Date: 2025-01-04 19:38+0530\n"
+"PO-Revision-Date: 2023-08-14 18:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: gsheetconnector-for-elementor-forms.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: gsheetconnector-for-elementor-forms.php:235
+msgid "View Documentation"
+msgstr ""
+
+#: gsheetconnector-for-elementor-forms.php:235
+#: includes/pages/admin-footer.php:16
+msgid "Docs"
+msgstr ""
+
+#: gsheetconnector-for-elementor-forms.php:236
+msgid "Get Support"
+msgstr ""
+
+#: gsheetconnector-for-elementor-forms.php:236
+#: includes/pages/admin-footer.php:15
+msgid "Support"
+msgstr ""
+
+#: gsheetconnector-for-elementor-forms.php:598
+msgid "<img style='width:30px;margin-right: 10px;' src='"
+msgstr ""
+
+#: gsheetconnector-for-elementor-forms.php:630
+msgid "Get GSheetConnector Elementor Pro"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:169
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:343
+msgid "Google Sheet Settings"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:346
+msgid "Google Sheet Name"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:350
+msgid ""
+"Go to your google account and click on\"Google apps\" icon and than click "
+"\"Sheets\". Select the name of the appropriate sheet you want to link your "
+"contact form or create new sheet."
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:355
+msgid "Google Sheet Id"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:358
+#: includes/pages/edit-sheet.php:61
+msgid "you can get sheet id from your sheet URL"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:362
+#: includes/pages/edit-sheet.php:130
+msgid "Google Sheet Tab Name"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:365
+#: includes/pages/edit-sheet.php:70
+msgid ""
+"Open your Google Sheet with which you want to link your contact form . You "
+"will notice a tab names at bottom of the screen. Copy the tab name where you "
+"want to have an entry of contact form."
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:369
+msgid "Google Tab Id"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:372
+#: includes/pages/edit-sheet.php:80
+msgid "you can get tab id from your sheet URL"
+msgstr ""
+
+#: includes/class-gsc-elementor-integration.php:381
+#: includes/pages/edit-sheet.php:86
+msgid "Google Sheet URL"
+msgstr ""
+
+#. Author of the plugin/theme
+#: includes/gsc-elementor-actions.php:39 includes/gsc-elementor-actions.php:195
+msgid "GSheetConnector"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:208
+msgid "Select Google Spreadsheet"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:222
+msgid "Select Sheet name"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:241
+msgid "Select Sheet Tab name"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:301
+#: includes/gsc-elementor-actions.php:316
+msgid "Click here"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:342
+msgid "Click here to configure Form Feeds"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:379
+msgid "Entry Date"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:401
+msgid "Post ID"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:423
+msgid "User Name"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:445
+msgid "User IP"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:467
+msgid "User Agent"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:489
+msgid "User ID"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:511
+msgid "Referrer"
+msgstr ""
+
+#: includes/gsc-elementor-actions.php:575
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:22
+msgid "Google Sheet"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/gsc-elementor-sidemenu.php:71
+msgid "Elementor Forms GSheetConnector"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:71
+msgid "Version :"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:75
+msgid "DASHBOARD"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:84
+msgid "Integration"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:85
+msgid "MetForm Settings"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:86
+msgid "Form Feeds"
+msgstr ""
+
+#: includes/gsc-elementor-sidemenu.php:87
+msgid "System Status"
+msgstr ""
+
+#: includes/gsc-elementor-utility.php:78
+msgid "There's something wrong with your code..."
+msgstr ""
+
+#: includes/gsc-elementor-utility.php:184
+msgid "Administrator"
+msgstr ""
+
+#: includes/pages/admin-footer.php:13
+msgid "Made with ♥ by the GSheetConnector Team"
+msgstr ""
+
+#: includes/pages/admin-footer.php:17
+msgid "VIP Circle"
+msgstr ""
+
+#: includes/pages/admin-footer.php:18
+msgid "Free Plugins"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:26
+msgid "Back to Feeds List"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:46
+msgid "Edit Feed and Integrate with Google Sheets"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:48
+msgid "Sheet Name"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:52
+msgid ""
+"Go to your google account and click on Google apps icon and than click "
+"Sheet, Select the name of the appropriate sheet you want to link your "
+"contact form or create new sheet."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:57
+msgid "Sheet ID"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:66
+msgid "Tab Name"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:76
+msgid "Tab ID"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:88
+msgid "Sheet URL"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:105
+msgid "Auto Google Sheet Settings :"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:105 includes/pages/edit-sheet.php:214
+#: includes/pages/edit-sheet.php:283 includes/pages/edit-sheet.php:305
+#: includes/pages/edit-sheet.php:324 includes/pages/edit-sheet.php:342
+msgid "PRO"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:112
+msgid "Google Spreadsheet Name"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:114 includes/pages/edit-sheet.php:132
+msgid "Select"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:116
+msgid "Create New"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:121
+msgid ""
+"Not fetching sheet details to the dropdown than add sheet and tab name "
+"manually."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:138
+msgid ""
+"Not fetching sheet Tab details to the dropdown than add sheet and tab name "
+"manually."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:151
+msgid "Create Spreadsheet"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:162
+msgid ""
+"<a id=\"gscelementorform-sync\" data-init=\"yes\"class=\"sync-button\"> "
+"Click Here </a> to fetch spreadsheet details."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:224
+msgid "Select All"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:271
+msgid "Header Management "
+msgstr ""
+
+#: includes/pages/edit-sheet.php:282
+msgid "Freeze Header Row"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:289
+msgid "Freeze First Header Row."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:304
+msgid "Header - Font Settings"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:308 includes/pages/edit-sheet.php:345
+msgid ""
+"This feature locks the top row in your selected sheet, providing a "
+"consistent reference point as you scroll through your data."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:323
+msgid "Sheet Background Color"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:327
+msgid ""
+"Apply colors to the entire sheet, distinguishing odd and even rows for "
+"enhanced readability."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:341
+msgid "Row - Font Settings"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:392
+msgid "Sync Elementor form submissions with Google Sheets."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:399
+msgid "From Date"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:404
+msgid ""
+"Select the starting date for the sync. The From Date determines the lower "
+"limit of the date range."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:409
+msgid "To Date"
+msgstr ""
+
+#: includes/pages/edit-sheet.php:414
+msgid ""
+"Select the ending date for the sync. The To Date determines the upper limit "
+"of the date range."
+msgstr ""
+
+#: includes/pages/edit-sheet.php:421
+msgid "Sync Entries"
+msgstr ""
+
+#: includes/pages/gsc-elementor-dashboard-widget.php:22
+msgid "Elementor Forms Connected Sheets using Pagebuilder"
+msgstr ""
+
+#: includes/pages/gsc-elementor-dashboard-widget.php:68
+msgid "Sheetlink"
+msgstr ""
+
+#: includes/pages/gsc-elementor-dashboard-widget.php:75
+msgid "No Sheets are connected."
+msgstr ""
+
+#: includes/pages/gsc-elementor-dashboard-widget.php:84
+#: includes/pages/gsc-elementor-dashboard-widget.php:93
+msgid "No Elementor Forms are connected with Google Sheets."
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:39
+#: includes/pages/gsc-integration.php:39
+#: includes/pages/gsc-met-form-settings.php:9
+msgid "Use Existing Client/Secret Key (Auto Google API Configuration)"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:42
+#: includes/pages/gsc-met-form-settings.php:12
+msgid "Use Manual Client/Secret Key (Use Your Google API Configuration)"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:56
+#: includes/pages/gsc-met-form-settings.php:24
+msgid "<strong>Make Sure, your selected Method is:</strong>  "
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:77
+msgid "Add Feeds"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:80
+msgid "Close Feeds"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:86
+#: includes/pages/gsc-feed-google-sheet.php:177
+msgid "Feed Name"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:89
+msgid "Select Form:"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:91
+#: includes/pages/gsc-met-form-settings.php:37
+#: includes/pages/gsc-met-form-settings.php:41
+msgid "Select Form"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:100
+msgid "Unnamed Form"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:101
+msgid "Unknown Element ID"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:144
+msgid "MetForm: "
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:151
+msgid "Submit"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:175
+msgid "Sr No"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:176
+msgid "Page ID"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:178
+msgid "Form Name"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:179
+msgid "Page Name"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:226
+msgid "No feeds found"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:235
+#, php-format
+msgid "Total %d items"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:238
+msgid "« First"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:239
+msgid "‹"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:242
+#, php-format
+msgid "Current Page %d of %d"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:245
+msgid "›"
+msgstr ""
+
+#: includes/pages/gsc-feed-google-sheet.php:246
+msgid "Last ›"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:34
+msgid "Elementor - Google Sheet Integration"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:37
+msgid "Choose Google API Setting :"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:40
+msgid ""
+"Use Manual Client/Secret Key (Use Your Google API Configuration) (Upgrade To "
+"PRO)"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:45 includes/pages/gsc-integration.php:372
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:66
+msgid "To authenticate with your Google account, follow these steps:"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:68
+msgid "Click on the \"Sign In With Google\" button."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:69
+msgid "Grant permissions for the following:"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:71
+msgid "Google Drive"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:72
+msgid "Google Sheets"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:72
+msgid "* Ensure that you enable the checkbox for each of these services."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:75
+msgid ""
+"This will allow the integration to access your Google Drive and Google "
+"Sheets."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:81
+msgid "Google Access Code : "
+msgstr ""
+
+#: includes/pages/gsc-integration.php:87
+msgid "Currently Active"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:89
+msgid "Deactivate"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:98
+msgid "Click Sign in with Google ->"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:106
+msgid "Save & Authenticate"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:114
+#: includes/pages/gsc-integration.php:217
+msgid ""
+"Something went wrong! It looks you have not given the permission of Google "
+"Drive and Google Sheets from your google account.Please Deactivate Auth and "
+"Re-Authenticate again with the permissions."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:118
+#: includes/pages/gsc-integration.php:222
+msgid "Also,"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:120
+#: includes/pages/gsc-integration.php:223
+msgid "Click Here "
+msgstr ""
+
+#: includes/pages/gsc-integration.php:121
+#: includes/pages/gsc-integration.php:224
+msgid ""
+"and if it displays \"GSheetConnector for WordPress Contact Forms\" under "
+"Third-party apps with account access then remove it."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:135
+#, php-format
+msgid "Connected email account: %s"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:138
+msgid ""
+"Something wrong ! Your Auth Code may be wrong or expired. Please deactivate "
+"and do Re-Authentication again. "
+msgstr ""
+
+#: includes/pages/gsc-integration.php:146
+msgid ""
+"<a id=\"ele-sync\" data-init=\"yes\">Click here </a> to fetch Sheet details "
+"to be set at Elementor Forms Google Sheet settings."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:153
+msgid ""
+"We do not store any of the data from your Google account on our servers, "
+"everything is processed & stored on your server. We take your privacy "
+"extremely seriously and ensure it is never misused."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:159
+msgid "Debug Log ->"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:160
+#: includes/pages/gsc-integration.php:162
+msgid "View"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:163
+msgid "Clear"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:185
+msgid " Google - "
+msgstr ""
+
+#: includes/pages/gsc-integration.php:186
+msgid "  API Settings"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:188
+msgid ""
+"Create new google APIs with Client ID and Client Secret keys to get an "
+"access for the google drive and google sheets. "
+msgstr ""
+
+#: includes/pages/gsc-integration.php:193
+msgid "Client Id"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:204
+msgid "Client Secret"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:238
+msgid "Connected Email Account:"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:241
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:246
+msgid ""
+"Something wrong ! Your Auth code may be wrong or expired Please Deactivate "
+"and Do Re-Auth Code "
+msgstr ""
+
+#: includes/pages/gsc-integration.php:273
+msgid "Client Token"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:289
+msgid "Click here to generate an Authentication Token"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:319
+msgid "Copy Logs"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:331
+msgid "No errors found."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:337
+msgid "No log file exists as no errors are generated."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:365
+msgid "Next steps…"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:373
+msgid "Capabilities/ Role Management .."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:379
+msgid "Compatibility"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:380
+msgid "Compatibility with Elementor-Forms Third-Party Plugins"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:386
+msgid "Multi Languages"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:387
+msgid "This plugin supports multi-languages as well!"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:393
+#: includes/pages/gsc-integration.php:404
+msgid "Support Wordpress multisites"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:394
+msgid ""
+"With the use of a Multisite, you’ll also have a new level of user-available: "
+"the Super Admin."
+msgstr ""
+
+#: includes/pages/gsc-integration.php:409
+msgid "Online Documentation"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:410
+msgid "Understand all the capabilities of ELementor-Forms GSheetConnector"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:414
+msgid "Ticket Support"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:415
+msgid "Direct help from our qualified support team"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:419
+msgid "Affiliate Program"
+msgstr ""
+
+#: includes/pages/gsc-integration.php:420
+#, php-format
+msgid "Earn flat 30% on every sale!"
+msgstr ""
+
+#: includes/pages/gsc-met-form-settings.php:58
+msgid "MetForm - Google Sheet Settings"
+msgstr ""
+
+#: includes/pages/pro-popup.php:8
+msgid "GSheetConnector for Elementor PRO Features"
+msgstr ""
+
+#: includes/pages/pro-popup.php:9
+msgid ""
+"This features is available in the PRO version of the plugin. To "
+"<strong>Enable the options Upgrade to the PRO</strong> version to unlock all "
+"these awesome features."
+msgstr ""
+
+#: includes/pages/pro-popup.php:10
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: includes/pages/pro-popup.php:12
+msgid ""
+"Bonus: GSheetConnector for Elementor Lite users will get <strong>Special "
+"Discounts</strong> for unlimited site licence, automatically applied at "
+"checkout."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.gsheetconnector.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Send your Elementor Form data to your Google Spreadsheet."
+msgstr ""
